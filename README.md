@@ -12,7 +12,7 @@ _website design project_
 
 This project is for educational porposes only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at:https://github.com/tomaskls/pirmas-dizainas-labirintas
+Site published at:https://github.com/tomaskls/pirmi-dizainai-lempute
 
 Design: [Labirintas](https://www.pinterest.com/pin/464293042832100427/)
 
@@ -50,7 +50,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/tomaskls/pirmidizainai-lempute.git
+    git clone https://github.com/tomaskls/pirmi-dizainai-lempute.git
     ```
 2. Install NPM packages
     ```sh
