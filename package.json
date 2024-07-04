@@ -1,13 +1,16 @@
 {
-  "name": "pirmi-dizainai-lempute",n
+  "name": "pirmi-dizainai-lempute",
   "version": "1.0.0",
+  "description": "![LICENSE](https://img.shields.io/badge/License-ISC-blue.svg?style=flat-square)\r ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)\r ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)",
   "main": "index.js",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  },
   "scripts": {
-    
+    "dev": "dead-server --host=localhost --port=1701",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "ISC"
 }
