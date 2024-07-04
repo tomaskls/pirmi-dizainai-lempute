@@ -1,16 +1,13 @@
 {
-  "name": "pirmi-dizainai-lempute",
+  "name": "pirmi-dizainai-lempute",n
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "dead": "^0.0.2",
-    "server": "^1.0.39"
-  }
+  "description": ""
 }
