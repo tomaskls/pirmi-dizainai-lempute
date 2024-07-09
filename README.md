@@ -12,9 +12,9 @@ _website design project_
 
 This project is for educational porposes only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at:https://github.com/tomaskls/pirmi-dizainai-lempute
+Site published at:https://tomaskls.github.io/pirmi-dizainai-lempute
 
-Design: [Labirintas](https://www.pinterest.com/pin/464293042832100427/)
+Design: [Lempute](https://www.pinterest.com/pin/464293042832100434/)
 
 ## 🎯 Project features/goals
 
