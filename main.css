@@ -1,0 +1,50 @@
+body{
+    background-color: gray;
+
+}
+main{
+background-color: #FFFFFF;
+display: inline-block;
+margin-top: 100px;
+margin-left: 75px;
+width: 680px;
+height: 500px;
+}
+.meniu{
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+div:nth-child(2){
+    width: 30%;
+    margin-left: 10%;
+    margin-top: 20%;
+    float: left;
+}
+div:nth-child(3){
+    width: 40%;
+    margin-top: 12%;
+    margin-left: 10%;
+    text-align: left;
+    float: left;
+}
+h1{
+    font-size: 100px;
+    line-height: 2em;
+    margin: 0;
+    color: blue;
+}
+p:nth-child(2) {
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0;
+}
+a {
+font-size: 15px;
+text-decoration: none;
+font-weight: bold;
+color: black;
+
+}
